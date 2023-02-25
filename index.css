@@ -1,6 +1,8 @@
 body {
     padding: 0;
-    margin: 0; 
+    margin: 0 auto; 
+    width: 550px;
+    height: 892px;
     background: #F6F7FB;
     font-family: 'Poppins', sans-serif;
 }
