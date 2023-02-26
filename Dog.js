@@ -14,7 +14,7 @@ class Dog {
         const badgeHtml = this.getBadgeHtml(this.hasBeenSwiped, this.hasBeenLiked)
         return `
             <div class="main">
-                <img src="${avatar}" class="dog-img">
+                <img src="${avatar}" class="dog-img" />
                 <div class="dog-detail">
                     <h3>${name}, ${age}</h3>
                     <p>${bio}</p>
